@@ -1,0 +1,10 @@
+1. So they are not messed around with by anyone that uses the class
+
+2. Use it inside of pop and top. So the code knows if it can actually run the methods without an error
+
+3. So that the programmer know where the error is and what to fix
+
+4. Editing the last element of a list is constant time. Where as the first requires going through all other element first.
+
+5. Def: the process where you test the smallest functional unit of code
+It is incorporated in the test code. It is important to this assignment to know that are stacks a properly working.
