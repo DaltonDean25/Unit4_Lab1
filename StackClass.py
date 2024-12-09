@@ -14,7 +14,7 @@ class ArrayStack:
     """remove the element on the top of stack"""
     if not self.__is_empty():
       top = self.__stack[-1]
-      self.__stack = self.__stack[:1]
+      self.__stack = self.__stack[:-1]
       return top
 
     else:
